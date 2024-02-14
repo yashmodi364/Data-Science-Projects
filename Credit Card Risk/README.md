@@ -78,10 +78,5 @@ After cross validation and hyperparameter tunning, XG Boost shows highest test a
 Cross validation and hyperparameter tunning certainly reduces chances of overfitting and also increases performance of model.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📜 Credits
 
-Ranjit Ghadge | Data Analyst | Data Scientist | Machine Learning Engineer 
-   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Ranjitghadge)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-ghadge/)
 
